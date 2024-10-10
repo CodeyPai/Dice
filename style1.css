@@ -1,0 +1,45 @@
+
+.container{
+    text-align: center;
+    margin: auto;
+    width: 70%; 
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+}
+
+a{
+    color: aliceblue;
+    text-decoration: none;
+    font-family: "Ruge Boogie", cursive;
+}
+
+body {
+    background-color: #393E46;
+}
+
+h1 {
+    font-family: "Qwitcher Grypen", cursive;
+    color: aquamarine;
+    text-shadow:  3px 3px 4px rgb(122, 117, 117);
+    margin: 30px;
+    font-size: 9rem;
+}
+
+p {
+    font-size: 2.5rem;
+    font-family: "Ruge Boogie", cursive;
+    color: aquamarine;
+}
+
+img {
+    width: 80%;
+}
+
+footer {   
+    text-align: center;
+    margin-top: 5%;
+    font-size: 1.5rem;
+}
